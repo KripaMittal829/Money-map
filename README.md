@@ -33,3 +33,18 @@ At the heart of MoneyMap is its smart expense tracker, which allows users to qui
 ### All Transaction
 ![Transaction Screenshot](AllTransactions.png)
 
+## 📌 Note
+⚠️ This is **only a demo frontend project**.  
+No backend integration or real data is included.
+
+---
+
+## 🤝 Contributing
+This project is currently **frontend-only**.  
+If you’d like to contribute, here are some ideas:
+- Add backend integration (Node.js, Express, Django, etc.)  
+- Connect to a database (MongoDB, PostgreSQL, etc.)  
+- Implement APIs for transaction storage, filtering, and analytics  
+- Enhance authentication and security features  
+
+Pull requests are welcome! Please open an issue first to discuss what you’d like to add.
